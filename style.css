@@ -1,0 +1,250 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+.item1{
+    width: 280px;
+    height: 140px;
+    background-color: bisque;
+    color: black;
+    margin: 10px;
+    padding: 5px;
+    padding-left: 5px;
+    padding-top: 5px;
+    border-radius: 5px;
+
+    
+}
+.burger{
+    position: relative;
+    left: 120px;
+    top: -60px;
+    padding: 5px;
+}
+.img1{
+    position: relative;
+    top: 29px;
+    right: 5px;
+}
+
+.item2{
+    width: 280px;
+    height: 140px;
+    background-color: bisque;
+    color: black;
+    margin: 10px;
+    padding: 5px;
+    padding-left: 5px;
+    padding-top: 5px;
+    border-radius: 5px;   
+}
+.Sandwich{
+    position: relative;
+    left: 120px;
+    top: -67px;
+    padding: 5px;
+}
+.img2{
+   
+    position: relative;
+    top: 29px;
+    right: 5px; 
+}
+.item3{
+    width: 280px;
+    height: 140px;
+    background-color: bisque;
+    color: black;
+    margin: 10px;
+    padding: 5px;
+    padding-left: 5px;
+    padding-top: 5px;
+    border-radius: 5px;   
+}
+.img3{
+    position: relative;
+    top: 29px;
+    right: 5px;
+}
+.Omlett{
+    color: black;
+    position: relative;
+    left: 120px;
+    top: -67px;
+    padding: 5px;
+}
+.item4{
+    width: 280px;
+    height: 140px;
+    background-color: bisque;
+    color: black;
+    margin: 10px;
+    padding: 5px;
+    padding-left: 5px;
+    padding-top: 5px;
+    border-radius: 5px;   
+}
+.img4{
+    
+    position: relative;
+    top: 29px;
+    right: 5px;
+}
+.Momos{
+    position: relative;
+    left: 120px;
+    top: -57px;
+    padding: 5px;
+}
+.item5{
+    width: 280px;
+    height: 140px;
+    background-color: bisque;
+    color: black;
+    margin: 10px;
+    padding: 5px;
+    padding-left: 5px;
+    padding-top: 5px;
+    border-radius: 5px; 
+    position: relative;
+    left: 570px;  
+    bottom: 640px;  
+}
+.img5{
+    position: relative;
+    right: 5px;
+    top:33px;
+}
+.Halwa{
+    position: relative;
+    left: 120px;
+    top: -47px;
+    padding: 5px;
+}
+.item6{
+    width: 280px;
+    height: 140px;
+    background-color: bisque;
+    color: black;
+    margin: 10px;
+    padding: 5px;
+    padding-left: 5px;
+    padding-top: 5px;
+    border-radius: 5px;  
+    position: relative;
+    left: 570px;  
+    bottom: 640px; 
+}
+.img6{
+    position: relative;
+    top: 36px;
+    right:5px;
+}
+.Brownbread{
+    position: relative;
+    left: 117px;
+    top: -61px;
+    padding: 5px;
+}
+.item7{
+    width: 280px;
+    height: 140px;
+    background-color: bisque;
+    color: black;
+    margin: 10px;
+    padding: 5px;
+    padding-left: 5px;
+    padding-top: 5px;
+    border-radius: 5px;   
+    position: relative;
+    left: 570px;  
+    bottom: 640px;
+}
+.Rice{
+    position: relative;
+    left: 120px;
+    top: -51px;
+    padding: 5px;
+}
+.img7{
+    position: relative;
+    top: 28px;
+    right:5px;
+}
+.item8{
+    width: 280px;
+    height: 140px;
+    background-color: bisque;
+    color: black;
+    margin: 10px;
+    padding: 5px;
+    padding-left: 5px;
+    padding-top: 5px;
+    border-radius: 5px; 
+    position: relative;
+    left: 570px;  
+    bottom: 640px;  
+}
+.img8{
+    position: relative;
+    top: 22px;
+    right: 5px;
+}
+.Cookies{
+    position: relative;
+    left: 100px;
+    top: -70px;
+    padding: 5px;
+}
+.item9{
+    width: 280px;
+    height: 140px;
+    background-color: bisque;
+    color: black;
+    margin: 10px;
+    padding: 5px;
+    padding-left: 5px;
+    padding-top: 5px;
+    border-radius: 5px;  
+    position: relative;
+    left: 1130px;  
+    bottom: 1095px; 
+}
+.img9{
+    position: relative;
+    top: 38px;
+    right: 5px;
+}
+.Chicken{
+    position: relative;
+    left: 120px;
+    top: -45px;
+    padding: 5px;
+}
+.item10{
+    width: 280px;
+    height: 140px;
+    background-color: bisque;
+    color: black;
+    margin: 10px;
+    padding: 5px;
+    padding-left: 5px;
+    padding-top: 5px;
+    border-radius: 5px; 
+    position: relative;
+    left: 1133px;  
+    bottom: 1096px;
+}
+.img10{
+    position: relative;
+    right: 5px;
+    top: 27px;
+}
+.Pasta{
+    position: relative;
+    left: 120px;
+    top: -69px;
+    padding: 5px;
+
+}
